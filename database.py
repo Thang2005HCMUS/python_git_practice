@@ -8,3 +8,5 @@ class LibraryDB:
     
     def get_all_books(self):
         return self.books
+    def search_book(self, query):
+        return 1
